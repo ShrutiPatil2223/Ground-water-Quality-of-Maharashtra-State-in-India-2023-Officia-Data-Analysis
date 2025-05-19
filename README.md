@@ -1,10 +1,12 @@
 # Groundwater Quality Analysis of Maharashtra
 
 ## Project Overview
-This project analyzes the groundwater quality across various districts in Maharashtra using data from the Central Ground Water Board (CGWB) 2023. The analysis helps identify contamination hotspots and informs decision-making for sustainable water management.
+This project analyzes the groundwater quality across various districts in Maharashtra (a State in India) using data from the Central Ground Water Board (CGWB) 2023. The analysis helps identify contamination hotspots and informs decision-making for sustainable water management.
 
 ## Tools & Technologies
-- **Data Collection**: Python (Camelot library for PDF scraping)
+- **Data Collection**: Central Ground Water Board (CGWB), Maharashtra Groundwater Reports
+ 2023 (Official Government Website )
+- **Data Scarping**: Python (Camelot library for PDF scraping)
 - **Data Cleaning & Analysis**: Power BI
 - **Visualization**: Power BI, custom KPIs, heatmaps, scatter plots, treemaps
 
